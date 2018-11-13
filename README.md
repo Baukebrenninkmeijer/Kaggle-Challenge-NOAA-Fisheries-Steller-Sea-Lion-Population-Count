@@ -61,21 +61,3 @@ Submission for the Kaggle Challenge: [NOAA Fisheries Steller Sea Lion Population
 Team 1: Wietse, Ties, Emma
 
 Team 2: Bauke, Demian, Timo
-
-
-### Update tasks:
-
-- Démian: patch extractor
-- Timo, Emma & Ties: FCN segmentation
-- Wietse: Paper lezen Maaike
-- Bauke: Plan maken zeeleeuwen classificatie
-
-
-### Options for classification
- - Bag of Words
- - sparse coding spatial pyramid matching (ScSPM)
- - Gewoon de segmented images in een neural network gooien
-
-### Inloggegevens voor Surfsara
-Username: gdemo055
-Wachtwoord: Ml1pisawesome!
