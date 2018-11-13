@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+
+\.idea/
+*.pyc
+
+TrainMedium/
+TrainSmall2/
+
+TrainDotted/
+
+Train/
