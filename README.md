@@ -1,5 +1,7 @@
 # Sea Lion Population Count
 
+This project was originally hosted on the Radboud University Gitlab. For archival purposes I copied it here. 
+
 ## Project proposal - Disqualified
 Contributers
 - Bauke Brenninkmeijer
